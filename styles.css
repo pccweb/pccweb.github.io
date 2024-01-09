@@ -1,9 +1,17 @@
 body{
-background-color:white;
+  text-align: center;
+  background-color:white;
+  color: black;
+  border: 0px solid black;
+  margin: 0px;
+  padding: 0px;
 }
 h1{
-color:black;
+
+}
+table{
+background-color: gray;
 }
 p{
-color:black;
+
 }
