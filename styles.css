@@ -1,10 +1,10 @@
 body{
   text-align: center;
-  background-color: #aaaaaa;
+  background-color: #ffffff;
   color: black;
-  border: 0px solid black;
-  margin: 0px;
-  padding: 0px;
+  margin: 128px;
+  border: 64px solid black;
+  padding: 16px;
 }
 h1{
 
