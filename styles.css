@@ -3,9 +3,7 @@ body{
   background-color: #ffffff;
   color: #000000;
   margin: 0px;
-  margin-left: 64px;
-  margin-right: 64px;
-  border: 0px;
+  border: 64px solid #fff8ff;
   padding: 0px;
 }
 
@@ -14,6 +12,6 @@ div {
   width:1024px;
   margin:auto;
   img{
-    height:128px;
+    background-color: #ffffff;
   }
 }
