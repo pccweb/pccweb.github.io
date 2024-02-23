@@ -9,9 +9,9 @@ body{
 
 div {
   background-color: #eeffff;
-  width:1024px;
+  width:auto;
   margin:auto;
   img{
-    background-color: #ffffff;
+    background-color: #fff8ff;
   }
 }
