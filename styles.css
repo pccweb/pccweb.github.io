@@ -3,15 +3,13 @@ body{
   background-color: #ffffff;
   color: #000000;
   margin: 0px;
-  border: 64px solid #fff8ff;
-  padding: 20px;
+  border: 80px solid #f0f0e0;
+  padding-left: 40px;
+  padding-right: 40px;
 }
 
 div {
-  background-color: #eeffff;
+  background-color: #e8ffff;
   width:auto;
   margin:auto;
-  img{
-    background-color: #fff8ff;
-  }
 }
