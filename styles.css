@@ -1,11 +1,11 @@
 body{
-  text-align: center;
+  text-align: left;
   background-color: #ffffff;
   color: #000000;
   margin: 0px;
   border: 80px solid #f0f0e0;
-  padding-left: 40px;
-  padding-right: 40px;
+  padding-left: 160px;
+  padding-right: 160px;
 }
 
 div {
