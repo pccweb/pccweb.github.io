@@ -1,20 +1,27 @@
-header, body, footer {
-  background-color:tan;
+body, header, nav, section, footer {
+  color:#361e54;
+  background-color:#ffe9cc;
   font-family:monospace;
   max-width:1024px;
   margin:auto;
   }
+caption {
+  background-color:#ffe9cc;
+  }
 header, footer, h3, a:link {
-  color:darkred;
+  color:#ad2b24;
   }
 a:hover {
-  color:red;
+  color:#dc914b;
   }
-a {
-  text-style:italic;
-}
+a:visited {
+  color:#361e54;
+  }
+img {
+  image-rendering:pixelated;
+  }
 table, th, td {
-  border:1px solid black;
+  border:1px solid #361e54;
   border-collapse:collapse;
   padding:2px;
   }
