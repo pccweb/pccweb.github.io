@@ -1,27 +1,21 @@
-body, header, nav, section, footer {
-  color:#361e54;
-  background-color:#ffe9cc;
+body {
+  color:#ffffff;
+  background-color:#000000;
   font-family:monospace;
   max-width:1024px;
   margin:auto;
   }
-caption {
-  background-color:#ffe9cc;
-  }
-header, footer, h3, a:link {
-  color:#ad2b24;
+header {
+  background-color:#444444;
   }
 a:hover {
-  color:#dc914b;
-  }
-a:visited {
-  color:#361e54;
+  color: #ffff00;
   }
 img {
   image-rendering:pixelated;
   }
 table, th, td {
-  border:1px solid #361e54;
+  border:1px solid #444444;
   border-collapse:collapse;
   padding:2px;
   }
