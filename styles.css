@@ -5,17 +5,29 @@ body {
   max-width:1024px;
   margin:auto;
   }
+h3 {
+  text-align:center;
+  }
 header {
-  background-color:#444444;
+  background-color:#554433;
+  }
+footer {
+  color:#ff4400;
+  }
+a:link {
+  color: #00ff00;
+  }
+a:visited {
+  color: #00dd00;
   }
 a:hover {
-  color: #ffff00;
+  color: #00ff00;
   }
 img {
   image-rendering:pixelated;
   }
 table, th, td {
-  border:1px solid #444444;
+  border:1px solid #554433;
   border-collapse:collapse;
   padding:2px;
   }
