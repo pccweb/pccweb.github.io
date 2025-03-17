@@ -1,2 +1,1 @@
-dis is mah website11!!! ROFL X3
-u bettah watch yo step PUNK1 we playin OLD SKOOL  >A<
+Hello! This is my website. It has some of my favorite things, and stuff I want to share.
