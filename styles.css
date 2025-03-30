@@ -5,11 +5,8 @@ body {
   max-width:1024px;
   margin:auto;
   }
-h3 {
-  text-align:center;
-  }
 header {
-  background-color:#554433;
+  color:#ff6622;
   }
 footer {
   color:#ff6622;
