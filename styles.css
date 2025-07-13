@@ -18,7 +18,7 @@ a:visited {
   color: #00bb00;
   }
 a:hover {
-  color: #00ff00;
+  color: #ff6622;
   }
 img {
   image-rendering:pixelated;
@@ -27,4 +27,16 @@ table, th, td {
   border:1px solid #554433;
   border-collapse:collapse;
   padding:2px;
+  }
+  
+  {
+
+  dark orange = header and footer (more "permanent" stuff)
+  #ff6622
+  lime = hyperlinks
+  #00ff00
+  cornflower blue = side info / less important / descriptions
+  #0088ff
+  white = everything else
+  
   }
