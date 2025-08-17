@@ -5,6 +5,9 @@ body {
   max-width:1024px;
   margin:auto;
   }
+h1, h2, th, caption {
+  color: #8888ff;
+  }
 header {
   color:#ff6622;
   }
@@ -20,8 +23,6 @@ a:visited {
 a:hover {
   color: #ff6622;
   }
-h1, h2 {
-  color: #0088ff;
 img {
   image-rendering:pixelated;
   }
@@ -30,16 +31,3 @@ table, th, td {
   border-collapse:collapse;
   padding:2px;
   }
-  
-  {
-
-  dark orange = header and footer (more "permanent" stuff)
-  #ff6622
-  lime = hyperlinks
-  #00ff00
-  cornflower blue = side info / less important / descriptions
-  #0088ff
-  white = everything else
-  
-  }
-
