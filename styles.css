@@ -20,6 +20,8 @@ a:visited {
 a:hover {
   color: #ff6622;
   }
+h1, h2 {
+  color: #0088ff;
 img {
   image-rendering:pixelated;
   }
@@ -40,3 +42,4 @@ table, th, td {
   white = everything else
   
   }
+
