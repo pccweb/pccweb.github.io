@@ -5,14 +5,19 @@ body {
   max-width:1024px;
   margin:auto;
   }
-h1, h2, th, caption {
+header, footer {
+  color:#ff6622;
+  }
+table, th, td {
+  border:1px solid #554433;
+  border-collapse:collapse;
+  padding:2px;
+  }
+h1, p {
+color: #f0f0ff;
+  }
+h2{
   color: #8888ff;
-  }
-header {
-  color:#ff6622;
-  }
-footer {
-  color:#ff6622;
   }
 a:link {
   color: #00ff00;
@@ -26,8 +31,15 @@ a:hover {
 img {
   image-rendering:pixelated;
   }
-table, th, td {
-  border:1px solid #554433;
-  border-collapse:collapse;
-  padding:2px;
+  
+  {
+
+  dark orange = header and footer (more "permanent" stuff)
+  #ff6622
+  lime = hyperlinks
+  #00ff00
+  cornflower blue = side info / less important / descriptions
+  #8888ff
+  white = everything else
+  
   }
