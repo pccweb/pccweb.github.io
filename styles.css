@@ -1,12 +1,9 @@
 body {
-  color:#f0f0ff;
-  background-color:#101000;
+  color:#8888ff;
+  background-color:#000000;
   font-family:monospace;
   max-width:1024px;
   margin:auto;
-  }
-header, footer {
-  color:#ff6622;
   }
 table, th, td {
   border:1px solid #554433;
@@ -14,7 +11,6 @@ table, th, td {
   padding:2px;
   }
 h1, p {
-color: #f0f0ff;
   }
 h2{
   color: #8888ff;
@@ -32,14 +28,13 @@ img {
   image-rendering:pixelated;
   }
   
-  {
-
-  dark orange = header and footer (more "permanent" stuff)
+  text usage{
+  dark orange = special words.
   #ff6622
-  lime = hyperlinks
+  lime = hyperlinks.
   #00ff00
-  cornflower blue = side info / less important / descriptions
+  white = spoken dialogue from me.
+  #000000
+  cornflower blue = everything not mentioned above.
   #8888ff
-  white = everything else
-  
   }
