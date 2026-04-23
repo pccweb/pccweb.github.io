@@ -25,5 +25,5 @@ header, footer, a:hover {
 img {
   image-rendering:pixelated;
   max-width:978px;
-  max-height:978px;
+  max-height:512px;
   }
